@@ -1,3 +1,4 @@
+
 # 4.Execution_of_NetworkCommands
 ### Name: MIDHUN S
 ### Register Number: 212223240087
@@ -56,7 +57,9 @@ Command =>  tracert www.google.com
 ### nslookup
 Command => nslookup www.amazon.com
 ![Screenshot (134)](https://github.com/user-attachments/assets/45a0dc3f-6c72-449c-84c1-1f13da8478aa)
-
+<br><br>
+<br><br>
+<br><br>
 ### getmac
 Command => getmac
 ![Screenshot (135)](https://github.com/user-attachments/assets/730496ca-0937-479b-9511-6d8640c93288)
