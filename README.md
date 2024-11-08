@@ -1,8 +1,6 @@
 # 4.Execution_of_NetworkCommands
 ### Name: MIDHUN S
 ### Register Number: 212223240087
-<br>
-
 ## AIM :
 To use of Network commands in Real Time environment
 ## Software : 
