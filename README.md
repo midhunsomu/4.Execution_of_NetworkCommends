@@ -67,7 +67,10 @@ Command => getmac
 ### hostname
 Command => hostname
 ![Screenshot (136)](https://github.com/user-attachments/assets/fb0237df-e710-4690-bf8b-1d0a25861289)
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 ### nbtstat
 Command => nbtstat
 ![Screenshot (137)](https://github.com/user-attachments/assets/8513b791-e1f5-416a-91d1-a70458d58e5f)
@@ -75,7 +78,10 @@ Command => nbtstat
 ### arp
 Command => arp
 ![Screenshot (138)](https://github.com/user-attachments/assets/e93dd361-4f1b-4fac-ad0c-592da3999e4f)
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 ### systeminfo
 Command => systeminfo
 ![Screenshot (139)](https://github.com/user-attachments/assets/66cfee53-492d-47c1-ad9f-af5a448fe1f4)
