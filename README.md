@@ -1,6 +1,8 @@
 # 4.Execution_of_NetworkCommands
 ### Name: MIDHUN S
 ### Register Number: 212223240087
+<br>
+
 ## AIM :
 To use of Network commands in Real Time environment
 ## Software : 
@@ -43,7 +45,9 @@ Command => ipconfig
 ### ping
 Command => ping www.google.com
 ![Screenshot (132)](https://github.com/user-attachments/assets/7b8213b5-5973-4c15-9cec-30e49cab03d1)
-
+<br><br>
+<br><br>
+<br><br>
 ### tracert
 Command =>  tracert www.google.com
 ![Screenshot (133)](https://github.com/user-attachments/assets/46f9a5c5-4e8a-4d60-ac3f-dd564b64ade3)
