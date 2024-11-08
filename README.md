@@ -46,6 +46,9 @@ Command => ping www.google.com
 <br><br>
 <br><br>
 <br><br>
+<br><br>
+<br><br>
+<br><br>
 ### tracert
 Command =>  tracert www.google.com
 ![Screenshot (133)](https://github.com/user-attachments/assets/46f9a5c5-4e8a-4d60-ac3f-dd564b64ade3)
